@@ -1,0 +1,4 @@
+- Public IP address
+- Private IP address
+- MAC address
+- IMEI
