@@ -1,0 +1,7 @@
+- First name
+- Last name
+- Height
+- Date of Birth
+- Phone number
+- e-mail address
+- social-network handles
