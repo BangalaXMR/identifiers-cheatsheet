@@ -1,6 +1,5 @@
 - First name
 - Last name
-- Height
 - Date of Birth
 - Social security number
 - IBAN
