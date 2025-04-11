@@ -2,6 +2,9 @@
 - Last name
 - Height
 - Date of Birth
+- Social security number
+- IBAN
+- Driving license -> car plates
 - Phone number
 - e-mail address
 - social-network handles
